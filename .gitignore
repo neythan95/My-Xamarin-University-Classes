@@ -20,6 +20,8 @@
 *.tar
 *.zip
 */packages/*
+*/bin/*
+*/obj/*
 !packages/repositories.config
 
 # Logs and databases #
