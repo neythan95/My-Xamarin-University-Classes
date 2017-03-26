@@ -19,7 +19,7 @@
 *.rar
 *.tar
 *.zip
-/packages/
+*/packages/*
 !packages/repositories.config
 
 # Logs and databases #
