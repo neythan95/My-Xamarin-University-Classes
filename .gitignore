@@ -19,10 +19,15 @@
 *.rar
 *.tar
 *.zip
-*/packages/*
-*/bin/*
-*/obj/*
-!packages/repositories.config
+
+# Visual Studio #
+#################
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
 
 # Logs and databases #
 ######################
